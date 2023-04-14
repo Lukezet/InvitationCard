@@ -1,6 +1,2 @@
-
-
-export 'package:invitation_card_app/widgets/title_and_credits.dart';
-
-export 'package:invitation_card_app/widgets/TextButtons.dart';
+export 'package:invitation_card_app/widgets/text_button.dart';
 
